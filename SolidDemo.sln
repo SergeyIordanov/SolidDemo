@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidDemo", "SolidDemo\SolidDemo.csproj", "{2FEEA2A8-40CD-4319-8BCA-B9145801AA03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidDemo.Client", "SolidDemo.Client\SolidDemo.Client.csproj", "{9A734EA2-8492-4597-AB78-EBAEE0413596}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FEEA2A8-40CD-4319-8BCA-B9145801AA03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FEEA2A8-40CD-4319-8BCA-B9145801AA03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FEEA2A8-40CD-4319-8BCA-B9145801AA03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FEEA2A8-40CD-4319-8BCA-B9145801AA03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A734EA2-8492-4597-AB78-EBAEE0413596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A734EA2-8492-4597-AB78-EBAEE0413596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A734EA2-8492-4597-AB78-EBAEE0413596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A734EA2-8492-4597-AB78-EBAEE0413596}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {307E40D5-5241-44F5-8B48-B18E7B58D601}
+	EndGlobalSection
+EndGlobal
